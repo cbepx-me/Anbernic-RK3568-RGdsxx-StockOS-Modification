@@ -6,7 +6,7 @@
 
 ## English
 
-A community-driven modification toolkit and system upgrade package repository for **Anbernic H700 series** devices running **Stock OS** (RG ds / RG dsplus and compatible models).
+A community-driven modification toolkit and system upgrade package repository for **Anbernic H700 series** devices running **Stock OS** (RGds / RGdsplus and compatible models).
 
 This repository mainly publishes **system upgrade packages**, along with a graphical launcher, system updater, and software center.
 

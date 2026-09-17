@@ -24,8 +24,6 @@ This repository mainly publishes **system upgrade packages**, along with a graph
 |--------|----------|--------|
 | RG ds | RGds | Supported |
 | RG dsplus | RGdsplus | Supported |
-| H700 (generic) | h700 | Partial / experimental |
-
 
 ### Installation
 
@@ -76,7 +74,7 @@ MIT License – see [LICENSE](LICENSE).
 - **魔改安装程序** – 解压资源、修改 RetroArch 与系统配置、设置语言/音量/LED、安装所选应用。
 - **多固件属性支持** – 自动识别 `rgdsplus`、`rgds`、`h700`。
 
-支持设备：RG ds、RG dsplus；H700 通用版部分实验性支持。
+支持设备：RG ds、RG dsplus。
 
 安装：下载 Release 包，复制到设备，运行 `main.py` 或 `update.sh`。
 

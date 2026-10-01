@@ -1,4 +1,4 @@
-# Anbernic H700 RG-xx StockOS Modification
+# Anbernic RG3568 RGds RGdsplus StockOS Modification
 
 [中文说明](#中文说明) | [English](#english)
 

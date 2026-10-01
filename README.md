@@ -64,7 +64,7 @@ MIT License – see [LICENSE](LICENSE).
 
 ## 中文说明
 
-这是一个面向 **Anbernic H700 系列**设备（RG ds / RG dsplus 等）的 **Stock OS 魔改工具箱与系统升级包发布仓库**。
+这是一个面向 **Anbernic RK3568 系列设备（RGds / RGdsplus 等）的 **Stock OS 魔改工具箱与系统升级包发布仓库**。
 
 主要功能：
 
@@ -72,7 +72,7 @@ MIT License – see [LICENSE](LICENSE).
 - **系统更新** – 在线检查、多镜像测速、断点续传、MD5 校验、update / append 模式、自动重启。
 - **软件中心** – 浏览、搜索、安装、卸载、更新软件，支持分类、截图、图标、安装/卸载脚本。
 - **魔改安装程序** – 解压资源、修改 RetroArch 与系统配置、设置语言/音量/LED、安装所选应用。
-- **多固件属性支持** – 自动识别 `rgdsplus`、`rgds`、`h700`。
+- **多固件属性支持** – 自动识别 `rgdsplus`、`rgds`。
 
 支持设备：RG ds、RG dsplus。
 

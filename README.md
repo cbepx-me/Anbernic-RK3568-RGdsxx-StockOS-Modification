@@ -16,7 +16,7 @@ This repository mainly publishes **system upgrade packages**, along with a graph
 - **System Updater** – Online version check, multi-mirror speed test (GitHub / GitCode), resume download, MD5 verification, update / append modes, auto-reboot.
 - **Software Center** – Browse, search, install, uninstall, and update software. Supports categories, screenshots, icons, install/uninstall scripts.
 - **Modification Installer** – Unpacks resources, modifies RetroArch and system configs, sets language/volume/LED, installs selected apps.
-- **Multi-firmware attribute support** – Auto-detects `rgdsplus`, `rgds`, and `h700` profiles.
+- **Multi-firmware attribute support** – Auto-detects `rgdsplus`, `rgds` profiles.
 
 ### Supported Devices
 
